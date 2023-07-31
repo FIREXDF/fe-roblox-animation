@@ -16,4 +16,4 @@ A FE script for Roblox (credit to : littensy)
 
 ## Credit to littensy
 
-### This script is in french a english one will come out and will some new animations !
+### This script is in french, a english one will come out and will some new animations !
