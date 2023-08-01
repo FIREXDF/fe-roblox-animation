@@ -1,5 +1,5 @@
 save = nil
-c3 = function(r,g,b) return Color3.new(r/255,g/255,b/255) end
+c3 = function(r,g,b) return Color3.new(r/255,g/255,b/255) en
  
 --do something ro get save file
  
