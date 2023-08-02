@@ -43,7 +43,7 @@ function getHumanoid()
     return lp.Character:FindFirstChildWhichIsA("Humanoid")
 end
  
-screengui = game:GetObjects("rbxassetid://14267461817")[1]
+screengui = game:GetObjects("rbxassetid://")[1]
 screengui.Parent = game:GetService("CoreGui")
 main = screengui.Topbar.Main
  
